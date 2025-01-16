@@ -7,7 +7,7 @@
 - 💼 Student Ambassador at Shiftkey Labs
 - 👨‍💻 Software Engineer Intern (Previous):
   - CPP Investments
-  - Dash Hudson  
+  - Dash Social  
   - NorthBay Solutions
 - 📢 Faculty of Computer Science Student Representative in the Dalhousie Student Union
 - 🔬 Member of Dalhousie Computing Systems Lab (CSL)
