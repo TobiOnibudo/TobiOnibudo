@@ -10,7 +10,7 @@
   - Dash Social  
   - NorthBay Solutions
 - 📢 Faculty of Computer Science Student Representative in the Dalhousie Student Union
-- 🔬 Member of Dalhousie Computing Systems Lab (CSL)
+- 🔬 Member of Dalhousie Computer Science Leaders society (Dal CSL)
 
 ## 🔧 Languages
 <p align="left">
