@@ -1,6 +1,6 @@
 # Hi there, I'm Tobi! 👋
 
-I’m a software engineer. Love turning ideas into software where the product story actually matters—who it helps, what problem it fixes, how it feels to use. Always picking up new things and happy to brainstorm or swap notes with other builders.
+I build software and love turning ideas into products. Always learning, always curious and always exploring what’s next.
 
 ## 🔧 Languages
 <p align="left">
