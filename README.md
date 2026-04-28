@@ -1,16 +1,6 @@
 # Hi there, I'm Tobi! 👋
 
- I’m a Computer Science student at Dalhousie University, focused on gaining experience in all areas of software development as I work towards becoming a well-rounded full-stack engineer. I’m all about building innovative software and focusing on creating impactful, product-driven solutions. I’m always up for learning something new or brainstorming ideas. 
-
-## 🎯 Current Roles & Experience
-- 🎓 Vice President External at the Dalhousie University Computer Science Society
-- 💼 Student Ambassador at Shiftkey Labs
-- 👨‍💻 Software Engineer Intern (Previous):
-  - CPP Investments
-  - Dash Social  
-  - NorthBay Solutions
-- 📢 Faculty of Computer Science Student Representative in the Dalhousie Student Union
-- 🔬 Member of Dalhousie Computer Science Leaders society (Dal CSL)
+ I’m a Software Engineer. I’m all about building innovative software and focusing on creating impactful, product-driven solutions. I’m always up for learning something new or brainstorming ideas. 
 
 ## 🔧 Languages
 <p align="left">
