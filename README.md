@@ -1,6 +1,6 @@
 # Hi there, I'm Tobi! 👋
 
- I’m a Software Engineer. I’m all about building innovative software and focusing on creating impactful, product-driven solutions. I’m always up for learning something new or brainstorming ideas. 
+I’m a software engineer. Love turning ideas into software where the product story actually matters—who it helps, what problem it fixes, how it feels to use. Always picking up new things and happy to brainstorm or swap notes with other builders.
 
 ## 🔧 Languages
 <p align="left">
