@@ -50,12 +50,3 @@ I build software and love turning ideas into products. Always learning, always c
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
 </p>
-
-## 📊 GitHub Stats & Activity
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <div style="display: flex; gap: 10px;">
-    <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=TobiOnibudo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="TobiOnibudo" />
-    <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiOnibudo&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="TobiOnibudo" />
-  </div>
-  <img width="48%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=TobiOnibudo&theme=holi-theme&hide_border=false" alt="TobiOnibudo" />
-</div>
