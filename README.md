@@ -6,7 +6,7 @@ Currently, a SWE @ CPP Investments, focused on building Legal & Public Market Co
 
 ## A few things about me
 
-* Prev SWE Intern CPP Investments, Dash Social, and NorthBay Solutions
+* Prev SWE Intern at CPP Investments, Dash Social, and NorthBay Solutions
 * Winner of the Atlantic AI Summit Competition (2025)
 * Helped organize 10+ hackathons, workshops, career panels, and tech events through [ShiftKey Labs](https://www.shiftkeylabs.ca/) and the Dalhousie Computer Science Society
 * Contributed to open-source projects including [OpenLLM](https://github.com/GHuyHuynh/openllm-web), [ShiftKey App](https://github.com/shiftkey-labs/shiftkey-app), and [Middleware](https://github.com/shiftkey-labs/middleware)
